@@ -17,7 +17,7 @@
       "name": "CIE",
       "logo_text": "Entra con CIE",
       "logo": "cie/cie_white.svg",
-      "login_url": "https://iam-test.developers.italia.it/Saml2/disco?entityID=http://cie-provider.example.org:8002/oidc/op/",
+      "login_url": "https://iam-test.developers.italia.it/Saml2/disco?entityID=http://cie-provider-test.developers.italia.it/oidc/op/",
       "learn_more_descr": "La CIE (Carta d’Identità Elettronica) può essere usata con il protocollo OIDC per autenticarti e accedere ai servizi online."
     },
     "spid": {
